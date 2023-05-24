@@ -1,5 +1,0 @@
-# JiwonLee
-- test
-- dmj
-- gumindata
-
